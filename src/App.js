@@ -22,7 +22,6 @@ class App extends Component {
             </div>
             <div className="col-md-3">
               <Basket />
-              <Copyright />
             </div>
           </div>
         </div>

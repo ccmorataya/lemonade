@@ -5,8 +5,8 @@
       "sku": 1,
       "title": "Sphynx Tie Dye Grey T-Shirt",
       "description": "Sphynx Tie Dye Grey",
-      "availableSizes": ["X", "L", "XL", "XXL"],
-      "price": 10,
+      "availableSizes": ["L"],
+      "price": 39,
       "isFreeShipping": true
     },
 
@@ -15,8 +15,8 @@
       "sku": 2,
       "title": "Danger Knife Grey T-Shirt",
       "description": "Danger Knife Grey",
-      "availableSizes": ["X", "M", "L"],
-      "price": 14.9,
+      "availableSizes": ["S"],
+      "price": 49,
       "isFreeShipping": true
     },
 
@@ -25,8 +25,8 @@
       "sku": 3,
       "title": "White DGK Script Tee",
       "description": "White DGK Script",
-      "availableSizes": ["X", "M", "L"],
-      "price": 14.9,
+      "availableSizes": ["M"],
+      "price": 29,
       "isFreeShipping": true
     },
 
@@ -35,8 +35,8 @@
       "sku": 4,
       "title": "Born On The Streets  T-Shirt",
       "description": "Born On The Streets",
-      "availableSizes": ["XL"],
-      "price": 25.9,
+      "availableSizes": ["M"],
+      "price": 29,
       "isFreeShipping": false
     },
 
@@ -45,8 +45,8 @@
       "sku": 5,
       "title": "Tso 3D Short Sleeve T-Shirt A",
       "description": "Tso 3D Short Sleeve",
-      "availableSizes": ["X", "L", "XL"],
-      "price": 10.9,
+      "availableSizes": ["M"],
+      "price": 29,
       "isFreeShipping": false
     },
 
@@ -55,8 +55,8 @@
       "sku": 6,
       "title": "Man Tie Dye Cinza Grey T-Shirt",
       "description": "Man Tie Dye Cinza Grey",
-      "availableSizes": ["XL", "XXL"],
-      "price": 49.9,
+      "availableSizes": ["M"],
+      "price": 29,
       "isFreeShipping": false
     },
 
@@ -65,9 +65,9 @@
       "sku": 7,
       "title": "Crazy Monkey Black T-Shirt",
       "description": "1977 Infantil",
-      "availableSizes": ["S"],
+      "availableSizes": ["M"],
       "style": "Preto com listras brancas",
-      "price": 22.5,
+      "price": 49,
       "isFreeShipping": true
     },
 
@@ -76,9 +76,9 @@
       "sku": 8,
       "title": "Tso 3D Black T-Shirt",
       "description": "",
-      "availableSizes": ["XL"],
+      "availableSizes": ["M"],
       "style": "Azul escuro",
-      "price": 18.7,
+      "price": 49,
       "isFreeShipping": false
     },
     {
@@ -86,8 +86,8 @@
       "sku": 9,
       "title": "Crazy Monkey Grey",
       "description": "",
-      "availableSizes": ["L", "XL"],
-      "price": 134.9,
+      "availableSizes": ["M"],
+      "price": 49,
       "isFreeShipping": true
     }
   ]
