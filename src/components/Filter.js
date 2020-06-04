@@ -5,10 +5,10 @@ class Filter extends Component {
   render() {
     return (
       <div className="row">
-        <div className="col-md-4">{`${this.props.filteredProducts.length} products found.`}</div>
+        <div className="col-md-4">{`${this.props.filteredProducts.length} productos encontrados.`}</div>
         <div className="col-md-4">
           <label>
-            Order by
+            Precio
             <select
               className="form-control"
               value={this.props.sort}
@@ -19,16 +19,16 @@ class Filter extends Component {
                 );
               }}
             >
-              <option value="">Select</option>
-              <option value="lowestprice">Lowest to highest</option>
-              <option value="highestprice">Highest to lowest</option>
+              <option value="">Seleccionar</option>
+              <option value="lowestprice">Menor a mayor</option>
+              <option value="highestprice">Mayor a menor</option>
             </select>
           </label>
         </div>
         <div className="col-md-4">
           <label>
             {" "}
-            Filter Size
+            Talla
             <select
               className="form-control"
               value={this.props.size}
@@ -39,7 +39,7 @@ class Filter extends Component {
                 );
               }}
             >
-              <option value="">ALL</option>
+              <option value="">Todas</option>
               <option value="x">XS</option>
               <option value="s">S</option>
               <option value="m">M</option>
