@@ -1,13 +1,13 @@
 {
   "main.css": "/lemonade/static/css/main.8e953878.chunk.css",
-  "main.js": "/lemonade/static/js/main.edca1dda.chunk.js",
-  "main.js.map": "/lemonade/static/js/main.edca1dda.chunk.js.map",
+  "main.js": "/lemonade/static/js/main.24764c5d.chunk.js",
+  "main.js.map": "/lemonade/static/js/main.24764c5d.chunk.js.map",
   "runtime~main.js": "/lemonade/static/js/runtime~main.483f0ea9.js",
   "runtime~main.js.map": "/lemonade/static/js/runtime~main.483f0ea9.js.map",
   "static/js/2.c0796c35.chunk.js": "/lemonade/static/js/2.c0796c35.chunk.js",
   "static/js/2.c0796c35.chunk.js.map": "/lemonade/static/js/2.c0796c35.chunk.js.map",
   "index.html": "/lemonade/index.html",
-  "precache-manifest.4541f5488a8d2b42657ee12b6a8d7715.js": "/lemonade/precache-manifest.4541f5488a8d2b42657ee12b6a8d7715.js",
+  "precache-manifest.398fdc083b751b9fdc894baf5cf8c02d.js": "/lemonade/precache-manifest.398fdc083b751b9fdc894baf5cf8c02d.js",
   "service-worker.js": "/lemonade/service-worker.js",
   "static/css/main.8e953878.chunk.css.map": "/lemonade/static/css/main.8e953878.chunk.css.map"
 }
