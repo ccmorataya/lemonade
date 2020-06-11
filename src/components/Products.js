@@ -10,8 +10,8 @@ class Products extends Component {
   render() {
     const productItems = this.props.products.map((product) => (
       <div className="col-md-4" key={product.id}>
-        <div className="thumbnail text-center">
-          <a
+        <div className="thumbnail Product text-center">
+          <a className="Product-text"
             href={`#${product.id}`}
             onClick={(e) => this.props.addToCart(this.props.cartItems, product)}
           >
